@@ -1,5 +1,9 @@
 <h1 align="center">🦊 Metamask Connect 🦊</h1>
 
+<img  src="https://github.com/LucasDants/ReactJS-MetamaskConnect/blob/main/screenshots/home.png?raw=true">
+
+<img  src="https://github.com/LucasDants/ReactJS-MetamaskConnect/blob/main/screenshots/home2.png?raw=true">
+
 <p align="center">
  <img  src="https://img.shields.io/github/package-json/dependency-version/LucasDants/ReactJS-MetamaskConnect/react">
  <img  src="https://img.shields.io/github/package-json/dependency-version/LucasDants/ReactJS-MetamaskConnect/next">
